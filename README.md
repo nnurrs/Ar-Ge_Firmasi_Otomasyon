@@ -5,7 +5,7 @@ Java Programlama Dili kullanılarak, Bir Ar-Ge firmasının departmanları, depa
 Proje, main fonksiyonun olduğu AnaSayfa class’ı dışında aşağıda özellikleri listelenen 3 class’ı içermektedir.
 ![liste](https://github.com/nnurrs/Ar-Ge_Firmasi_Otomasyon/assets/96475696/75a72fec-3713-4685-b0a4-e1f1efda2e9d)
 Yukarıdan belirtilen class’lar Kapsülleme (Encapsulation) özelliklerini sağlamaktadır. perID, her personel oluşturulduğunda otomatik olarak artırılıp atanmaktadır. Aynı şekilde projeID, her proje oluşturulduğunda otomatik olarak artırılıp atanmaktadır.
-Kullanıcıdan gerekli bilgiler alındıktan sonra kullanıcıya aşağıdaki menü sunulur:
+Kullanıcıdan gerekli bilgiler alındıktan sonra kullanıcıya aşağıdaki menü sunulur:  
 (1)- Tüm Departmanların Bilgilerini Listele  
 (2)- Departman Adına Göre Arama Yap  
 (3)- Personel Adına Göre Arama Yap  
