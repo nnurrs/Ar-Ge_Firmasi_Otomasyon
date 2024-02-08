@@ -15,4 +15,4 @@ Kullanıcıdan gerekli bilgiler alındıktan sonra kullanıcıya aşağıdaki me
 **(7)- Proje Süresine Göre Projeleri Bul**  
 **(8)- Proje Maliyetine Göre Projeleri Bul**  
 **(9)- Proje Maliyetine Göre Projeleri Analiz Et**  
-*(10)- Çıkış**
+**(10)- Çıkış**
